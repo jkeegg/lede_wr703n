@@ -22,7 +22,7 @@ on:
 permissions: write-all
   
 env:
-  REPO_URL: https://github.com/jkeegg/lede
+  REPO_URL: https://github.com/jkeegg/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 9331_seed.config
